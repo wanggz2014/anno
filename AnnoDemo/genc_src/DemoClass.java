@@ -1,0 +1,1 @@
+public class DemoClass{ public DemoClass(){System.out.println("success");}}
